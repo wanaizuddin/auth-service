@@ -10,12 +10,22 @@
 
 ## API Spec
 - POST /signup
-![image](https://user-images.githubusercontent.com/85466137/121217997-eebd8b80-c8b4-11eb-9975-e75851e92d7a.png)
-
 - POST /login
 - GET /user/:userId (Get Specific User)
 - GET/users (Get List of Users)
-![image](https://user-images.githubusercontent.com/85466137/121218516-62f82f00-c8b5-11eb-93bf-a63b9c973d70.png)
-
 - PUT /user/:userId (Update User)
 - DELETE /user/:userId (Delete User)
+
+## Examples
+- Screenshot 1:
+![image](https://user-images.githubusercontent.com/85466137/121219168-00536300-c8b6-11eb-8e38-69a92a73d0ef.png)
+
+- Screenshot 2:
+![image](https://user-images.githubusercontent.com/85466137/121219438-44defe80-c8b6-11eb-8eb7-389dc0b745ca.png)
+
+-Screenshot 3:
+![image](https://user-images.githubusercontent.com/85466137/121219686-8b345d80-c8b6-11eb-9161-2df5dc491d85.png)
+
+-Screenshot 4:
+![image](https://user-images.githubusercontent.com/85466137/121219739-9a1b1000-c8b6-11eb-93e8-bb1388b9d847.png)
+
